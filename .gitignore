@@ -1,0 +1,14 @@
+# Compiled files
+*.o
+*.a
+*.so
+*.out
+
+# Debugging
+core
+core.*
+
+# Editor and operating system files
+.vscode/
+.idea/
+.DS_Store
