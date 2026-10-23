@@ -25,7 +25,7 @@ by W. Richard Stevens and Stephen A. Rago.
 
 ## Progress
 
-- [ ] Repository setup
+- [X] Repository setup
 - [ ] Introduction and Unix fundamentals
 - [ ] File I/O
 - [ ] Files and directories
